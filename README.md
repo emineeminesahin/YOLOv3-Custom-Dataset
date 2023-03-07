@@ -1,5 +1,7 @@
 Data - https://drive.google.com/file/d/1xdIivov7687aCJ_Hyf9QsJz2gcBnrt5r/view?usp=sharing
 
+https://www.linkedin.com/posts/emine-sahin_deeplearning-yolo-darknet-activity-6993558796946059264-o9Ql?utm_source=share&utm_medium=member_desktop
+ 
  Veri Seti
 
 Tüm veri setine oran ile %80 oranında eğitim verisi 11291 fotoğraftan, %20 oranında doğrulama veri seti 2823 fotoğraftan oluşmaktadır. Veri setinde 1280 x 720 ve 640 x 640 boyutlarında 14114 fotoğraf bulunmaktadır.  Eğitim veri setinde 11907 etiketleme, doğrulama veri setinde 2910 etiketleme işlemi yapılmıştır.
